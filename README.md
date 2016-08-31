@@ -1,0 +1,6 @@
+# blog-command-tool
+
+> 简单的nodejs命令行工具，类似hexo的静态博客工具
+
+还在继续开发中...
+comming soon...
